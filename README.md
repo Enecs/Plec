@@ -2,6 +2,10 @@
 
 A bad implementation of a Discord OAuth Bot to keep people in a Discord server.
 
+## Note
+
+This is meant for education purposes only! I am not responsible with what you do with this repository.
+
 ## Installation
 
 1. Clone the repository (`git clone https://github.com/DanPlayz0/Plec.git`)
